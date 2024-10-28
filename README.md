@@ -36,8 +36,8 @@ This project explores road accidents in Israel through interactive visualization
 5. **road2.jpg**  
    - A visual asset used to complement the theme of the project.
 
-6. **Report.pdf**:  
-  - A detailed report summarizing the findings and analyses.  
+6. **Report.pdf**:
+   - A detailed report summarizing the findings and analyses.  
 
 ---
 ## Key Objectives:
